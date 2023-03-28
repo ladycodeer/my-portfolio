@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Rabia kahya
+          Rabia kahyaaaaaaaaa
         </a>
       </header>
     </div>
