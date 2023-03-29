@@ -43,7 +43,7 @@ header {
     background: linear-gradient(var(--color-primary), transparent);
     width: 22rem;
     height: 30rem;
-    position: relative;
+    position: sticky;
     left: 50%;
     transform: translateX(-50%);
     margin-top: 3rem;
