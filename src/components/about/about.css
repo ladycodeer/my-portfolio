@@ -25,7 +25,11 @@
 }
 
 .about__cards {
-    display: inline-block;
+    display: grid;
+    width: 1800px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 150px);
+    grid-gap: 1rem;
     grid-template-columns: repeat(3, 1fr);
     gap: 1.5rem;
     border-radius: 1rem;
