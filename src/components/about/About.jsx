@@ -37,7 +37,11 @@ const about = () => {
               <small> 10+ Projects</small>
             </article>
             <div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident eius harum laborum repellat culpa ipsa vero quis illo, repudiandae laudantium quos dignissimos illum voluptates distinctio obcaecati quam error sint recusandae!</p>
+              <p>An ambitious Full-Stack web developer looking for a Part-time/İntership role in an IT company with the opportunity to work with the latest technologies.
+
+                Quite curious, detail oriented and a collaborative team player.
+
+                Also, interested in Photography, horse riding, camping, animals and anime.</p>
               <a href="#contact" className='btn btn-primary'>Get In Touch</a>
             </div>
           </div>
