@@ -47,7 +47,7 @@ const data = [
   {
     id: 6,
     image: foody,
-    title: "The Incredibles / RefuBook",
+    title: "Foody/ Food Ordering App",
     githup: '',
     demo: ''
 
