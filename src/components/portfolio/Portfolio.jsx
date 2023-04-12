@@ -14,7 +14,7 @@ const data = [
     image: refubook,
     title: "The Incredibles / RefuBook",
     githup: 'https://github.com/ladycodeer/The-Incredibles',
-    demo: ''
+    demo: 'https://the-incredibles-refubook.netlify.app/'
   },
   {
     id: 2,
