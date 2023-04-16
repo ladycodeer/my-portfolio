@@ -11,7 +11,7 @@ function Header() {
         <h5>Hello I'm</h5>
         <h1>Rabia Kahya</h1>
 
-        <div className="text-light">"A developer from Turkey,
+        <div className="text-light">" Developer,
           3th year CSE student at Cukurova University"</div>
         <CTA />
         <HeaderSocials />
