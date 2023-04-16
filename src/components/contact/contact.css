@@ -55,3 +55,20 @@ textarea {
     color: var(--color-white);
 
 }
+
+/* MEDIA QUERİES (MEDIUM SCREENS) */
+
+@media screen and (max-width: 1024px) {
+    .container.contact__container {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+}
+
+/* MEDIA QUERİES (small SCREENS) */
+
+@media screen and (max-width:600px) {
+    .container.contact__container {
+        width: var(--container-width-sm);
+    }
+}

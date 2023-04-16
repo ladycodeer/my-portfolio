@@ -78,7 +78,9 @@ header {
 @media screen and (max-width:600px) {
     header {
         height: 100vh;
+        align-items: center;
     }
+
 
     .header__socials,
     .scroll__down {
